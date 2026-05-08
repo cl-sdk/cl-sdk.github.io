@@ -1,3 +1,7 @@
+html {
+    font-family: Arial, Helvetica;
+}
+
 .container {
     margin: 0 auto;
     width: 512px;
